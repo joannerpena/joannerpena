@@ -5,7 +5,8 @@
 
 ## I'm a Web & Mobile Dev, a Gamer & Student (We learn something new every day)!!
 
-- 🔭 I'm working on an environment installation for MacOs (Later on Windows and Linux) [Latest Project][latestproject]!
+- 💼 Jr FrontEnd Engineer @ [Spruce](https://sprucetech.com)
+- 💻 I'm working on an environment installation for MacOs (Later on Windows and Linux) [Latest Project][latestproject]!
 - 🌱 I’m always learning!
 - 👯 I’m looking to collaborate more into open source projects.
 - 🥅 2021 Goals: Learn the MERN stack in depth.
@@ -22,28 +23,32 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
-<img align="left" alt="Xcode" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/xcode.svg" />
-<img align="left" alt="Android Studio" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/androidstudio.svg" />
-<img align="left" alt="Figma" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" />
-<img align="left" alt="InVision" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/invision.svg" />
-<img align="left" alt="Wordpress" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wordpress.svg" />
-<img align="left" alt="HTML5" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
-<img align="left" alt="CSS3" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
-<img align="left" alt="Sass" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />
-<img align="left" alt="Js" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
-<img align="left" alt="Reactjs" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
-<img align="left" alt="Nodejs" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
-<img align="left" alt="Python" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
-<img align="left" alt="Kotlin" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kotlin.svg" />
-<img align="left" alt="swift" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/swift.svg" />
-<img align="left" alt="MongoDB" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />
-<img align="left" alt="Firebase" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg" />
-<img align="left" alt="Github" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-<img align="left" alt="Terminal" height="32" width="32" style="margin-bottom: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windowsterminal.svg" />
+<code><img align="left" alt="Visual Studio Code" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg"></code>
+<code><img align="left" alt="Xcode" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/xcode.svg" /></code>
+<code><img align="left" alt="Android Studio" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/androidstudio.svg"></code>
+<code><img align="left" alt="Figma" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg"></code>
+<code><img align="left" alt="InVision" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/invision.svg"></code>
+<code><img align="left" alt="Wordpress" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wordpress.svg"></code>
+<code><img align="left" alt="HTML5" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg"></code>
+<code><img align="left" alt="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg"></code>
+<code><img align="left" alt="Sass" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg"></code>
+<code><img align="left" alt="Js" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg"></code>
+<code><img align="left" alt="Reactjs" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg"></code>
+<code><img align="left" alt="Nodejs" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg"></code>
+<code><img align="left" alt="Python" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
+<code><img align="left" alt="Kotlin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kotlin.svg"></code>
+<code><img align="left" alt="Swift" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/swift.svg"></code>
+<code><img align="left" alt="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg"></code>
+<code><img align="left" alt="Firebase" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg"></code>
+<code><img align="left" alt="Github" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg"></code>
+<code><img align="left" alt="Terminal" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windowsterminal.svg"></code>
 
 <br />
 <br />
+<br />
+
+<img align="left" alt="Joanner's Github Stats" src="https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena"/>
+<img align="left" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/top-langs/?username=joannerpena"/>
 
 <!-- ---
 

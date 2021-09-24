@@ -8,7 +8,7 @@
 
 - 💼 Jr FrontEnd Engineer @ [Spruce](https://sprucetech.com)
 - 💻 I'm working on an environment installation for MacOs (Later on Windows and Linux) [Latest Project][latestproject]!
-- 🌱 I’m always learning!
+- 🌱 I’m always learning. Currently learning Divi Module Development and MERN Stack!
 - 👯 I’m looking to collaborate more into open source projects.
 - 🥅 2021 Goals: Learn the MERN stack in depth.
 - ⚡ Fun fact: I love to collect vinyl records!
@@ -48,44 +48,31 @@
 <br />
 <br />
 
-[<img alt="Joanner's Github Stats" src="https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&hide=contribs&count_private=true&custom_title=Joanner's Github Stats"/>](https://github.com/joannerpena/Mac-Environment-Installer")
+[![Joanner's Github Stats](https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&hide=contribs&count_private=true)](https://github.com/joannerpena/Mac-Environment-Installer)
 
 ### Top Languages
 
-[<img alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/top-langs/?username=joannerpena&layout=compact&theme=material-palenight&hide_border=true" />](https://github.com/joannerpena/Mac-Environment-Installer")
+[<img alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/top-langs/?username=joannerpena&layout=compact&theme=material-palenight&hide_border=true" />](https://github.com/joannerpena/Mac-Environment-Installer)
+[![Joanner's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joannerpena&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/Mac-Environment-Installer)
 
 ### Top Repositories
 
-<a href="https://github.com/joannerpena/Mac-Environment-Installer">
-    <img align="left" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/pin/?username=joannerpena&repo=Mac-Environment-Installer&layout=compact&theme=material-palenight&hide_border=true" />
-</a>
-<a href="https://github.com/joannerpena/BudgetBase">
-    <img align="left" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/pin/?username=joannerpena&repo=BudgetBase&layout=compact&theme=material-palenight&hide_border=true" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joannerpena&repo=Mac-Environment-Installer&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/Mac-Environment-Installer)
 
-<!-- ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joannerpena&repo=BudgetBase&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/BudgetBase)
 
-### 📕 Latest Blog Posts
+<!-- <a href="https://github.com/joannerpena/BudgetBase">
+<img align="left" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/pin/?username=joannerpena&repo=BudgetBase&layout=compact&theme=material-palenight&hide_border=true" />
+</a> -->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<!-- --- -->
-
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!-- </details> -->
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details> -->
+---
 
 [website]: https://joannerpena.me
 [latestproject]: https://github.com/joannerpena/Mac-Environment-Installer

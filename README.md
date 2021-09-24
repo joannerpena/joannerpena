@@ -1,3 +1,5 @@
+![header](assets/readme-header.png)
+
 ### Hi there, I'm Joanner - [joannerpena.me][website] 👋
 
 [![Website](https://img.shields.io/website?label=joannerpena.me&style=for-the-badge&url=https%3A%2F%2Fcjoannerpena.me)][website]
@@ -47,6 +49,7 @@
 <br />
 <br />
 <br />
+<br />
 
 [![Joanner's Github Stats](https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&hide=contribs&count_private=true)](https://github.com/joannerpena/Mac-Environment-Installer)
 
@@ -57,9 +60,8 @@
 
 ### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joannerpena&repo=Mac-Environment-Installer&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/Mac-Environment-Installer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joannerpena&repo=BudgetBase&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/BudgetBase)
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joannerpena&repo=Mac-Environment-Installer&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/Mac-Environment-Installer) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joannerpena&repo=BudgetBase&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/BudgetBase) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 

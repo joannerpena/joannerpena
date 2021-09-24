@@ -47,8 +47,16 @@
 <br />
 <br />
 
-<img align="left" alt="Joanner's Github Stats" src="https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena"/>
-<img align="left" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/top-langs/?username=joannerpena"/>
+<img align="center" alt="Joanner's Github Stats" src="https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&hide=contribs&count_private=true"/> | <img align="center" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/top-langs/?username=joannerpena&layout=compact&theme=material-palenight&hide_border=true" />
+
+### Top Repositories
+
+<a href="https://github.com/joannerpena/Mac-Environment-Installer">
+    <img align="left" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/pin/?username=joannerpena&repo=Mac-Environment-Installer&layout=compact&theme=material-palenight&hide_border=true" />
+</a>
+<a href="https://github.com/joannerpena/BudgetBase">
+    <img align="left" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/pin/?username=joannerpena&repo=BudgetBase&layout=compact&theme=material-palenight&hide_border=true" />
+</a>
 
 <!-- ---
 

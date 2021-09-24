@@ -7,7 +7,7 @@
 
 - 🔭 I'm working on an environment installation for MacOs (Later on Windows and Linux) [Latest Project][latestproject]!
 - 🌱 I’m always learning!
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate more into open source projects.
 - 🥅 2021 Goals: Learn the MERN stack in depth.
 - ⚡ Fun fact: I love to collect vinyl records!
 

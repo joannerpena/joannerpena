@@ -61,10 +61,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joannerpena&repo=BudgetBase&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/BudgetBase)
 
-<!-- <a href="https://github.com/joannerpena/BudgetBase">
-<img align="left" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/pin/?username=joannerpena&repo=BudgetBase&layout=compact&theme=material-palenight&hide_border=true" />
-</a> -->
-
 ---
 
 ### :zap: Recent Activity

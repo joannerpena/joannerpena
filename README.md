@@ -47,7 +47,7 @@
 <br />
 <br />
 
-<img align="center" alt="Joanner's Github Stats" src="https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&hide=contribs&count_private=true"/>
+<img align="center" alt="Joanner's Github Stats" src="https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&hide=contribs&count_private=true&custom_title=Joanner's Github Stats"/>
 <img align="center" alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/top-langs/?username=joannerpena&layout=compact&theme=material-palenight&hide_border=true" />
 
 ### Top Repositories

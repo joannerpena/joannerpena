@@ -25,12 +25,16 @@
 <img align="left" alt="Visual Studio Code" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
 <img align="left" alt="Xcode" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/xcode.svg" />
 <img align="left" alt="Android Studio" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/androidstudio.svg" />
+<img align="left" alt="Figma" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" />
+<img align="left" alt="InVision" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/invision.svg" />
+<img align="left" alt="Wordpress" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wordpress.svg" />
 <img align="left" alt="HTML5" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
 <img align="left" alt="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
 <img align="left" alt="Sass" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" />
 <img align="left" alt="Js" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
 <img align="left" alt="Reactjs" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
 <img align="left" alt="Nodejs" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
+<img align="left" alt="Python" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
 <img align="left" alt="Kotlin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kotlin.svg" />
 <img align="left" alt="swift" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/swift.svg" />
 <img align="left" alt="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />

@@ -1,7 +1,8 @@
 ### Hi there, I'm Joanner - [joannerpena.me][website] 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+[![Website](https://img.shields.io/website?label=joannerpena.me&style=for-the-badge&url=https%3A%2F%2Fcjoannerpena.me)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/joannerpena?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 ## I'm a Web & Mobile Dev, a Gamer & Student (We learn something new every day)!!
 

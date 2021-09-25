@@ -71,7 +71,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#506](https://github.com/elegantthemes/create-divi-extension/issues/506) in [elegantthemes/create-divi-extension](https://github.com/elegantthemes/create-divi-extension)
+1. 🗣 Commented on [#506](https://github.com/elegantthemes/create-divi-extension/issues/506) in [elegantthemes/create-divi-extension](https://github.com/elegantthemes/create-divi-extension)
 <!--END_SECTION:activity-->
 
 ---

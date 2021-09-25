@@ -17,10 +17,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="joannerpena.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Joannerpena | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Joannerpena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Joannerpena | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Joannerpena | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -49,7 +50,8 @@
 <br />
 <br />
 <br />
-<br />
+
+### Github Stats
 
 [![Joanner's Github Stats](https://github-readme-stats-joannerpena.vercel.app/api?username=joannerpena&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&hide=contribs&count_private=true)](https://github.com/joannerpena/Mac-Environment-Installer)
 
@@ -68,6 +70,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#506](https://github.com/elegantthemes/create-divi-extension/issues/506) in [elegantthemes/create-divi-extension](https://github.com/elegantthemes/create-divi-extension)
 <!--END_SECTION:activity-->
 
@@ -78,3 +81,4 @@
 [twitter]: https://twitter.com/joannerpena
 [instagram]: https://instagram.com/joannerpena06
 [linkedin]: https://linkedin.com/in/joannerpena
+[spotify]: https://open.spotify.com/user/joannerpena?si=8bc574b518054b99

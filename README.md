@@ -76,6 +76,8 @@
 
 ---
 
+![Footer](https://cdn.statically.io/gh/joannerpena/joannerpena/main/assets/footer.svg)
+
 [website]: https://joannerpena.me
 [latestproject]: https://github.com/joannerpena/Mac-Environment-Installer
 [twitter]: https://twitter.com/joannerpena

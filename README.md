@@ -58,7 +58,7 @@
 ### Top Languages
 
 [<img alt="Joanner's Github Most Languages Used" src="https://github-readme-stats-joannerpena.vercel.app/api/top-langs/?username=joannerpena&layout=compact&theme=material-palenight&hide_border=true" />](https://github.com/joannerpena/Mac-Environment-Installer)
-[![Joanner's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joannerpena&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/Mac-Environment-Installer)
+[![Joanner's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joannerpena&langs_count=6&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/joannerpena/Mac-Environment-Installer)
 
 ### Top Repositories
 

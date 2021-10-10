@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Joanner - [joannerpena.me][website] 👋
 
-[![Website](https://img.shields.io/website?label=joannerpena.me&style=for-the-badge&url=https%3A%2F%2Fcjoannerpena.me)][website]
+[![Website](https://img.shields.io/website?label=joannerpena.me&style=for-the-badge&url=https://joannerpena.me)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/joannerpena?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 

@@ -10,7 +10,7 @@
 
 - 💼 Jr FrontEnd Engineer @ [Spruce](https://sprucetech.com)
 - 💻 I'm working on an environment installation for MacOs (Later on Windows and Linux) [Latest Project][latestproject]!
-- 🌱 I’m always learning. Currently learning Divi Module Development and MERN Stack!
+- 🌱 I’m always learning. Currently learning AEM Development and MERN Stack!
 - 👯 I’m looking to collaborate more into open source projects.
 - 🥅 2021 Goals: Learn the MERN stack in depth.
 - ⚡ Fun fact: I love to collect vinyl records!

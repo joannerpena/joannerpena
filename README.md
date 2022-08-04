@@ -8,11 +8,11 @@
 
 ## I'm a Web & Mobile Dev, a Gamer & Student (We learn something new every day)!!
 
-- 💼 Jr FrontEnd Engineer @ [Spruce](https://sprucetech.com)
+- 💼 FrontEnd Engineer @ [Spruce](https://sprucetech.com)
 - 💻 I'm working on an environment installation for MacOs (Later on Windows and Linux) [Latest Project][latestproject]!
-- 🌱 I’m always learning. Currently learning AEM Development and MERN Stack!
+- 🌱 I’m always learning. Currently getting certified for AWS and learning MERN Stack!
 - 👯 I’m looking to collaborate more into open source projects.
-- 🥅 2021 Goals: Learn the MERN stack in depth.
+- 🥅 2022 Goals: Get AWS Certified.
 - ⚡ Fun fact: I love to collect vinyl records!
 
 ### Connect with me:

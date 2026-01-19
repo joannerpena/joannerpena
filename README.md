@@ -4,19 +4,17 @@
 
 [![Website](https://img.shields.io/website?label=joannerpena.me&style=for-the-badge&url=https://joannerpena.me)][website]
 
-## I'm a Web & Mobile Dev, a Gamer & Student (We learn something new every day)!!
+## I'm a Full Stack, AWS Cloud Engineer & Student (We learn something new every day)!!
 
-- 💼 FrontEnd Engineer @ [Spruce](https://sprucetech.com)
-- 💻 I'm working on an environment installation for MacOs (Later on Windows and Linux) [Latest Project][latestproject]!
-- 🌱 I’m always learning. Currently getting certified for AWS and learning MERN Stack!
+- 💼 FullStack Engineer @ [Spruce](https://sprucetech.com)
+- 🌱 I’m always learning. Currently getting certified for AWS!
 - 👯 I’m looking to collaborate more into open source projects.
-- 🥅 2022 Goals: Get AWS Certified.
+- 🥅 2025 Goals: Get a Solutions Arquitect Certification.
 - ⚡ Fun fact: I love to collect vinyl records!
 
 ### Connect with me:
 
 [<img align="left" alt="joannerpena.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Joannerpena | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Joannerpena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joannerpena | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Joannerpena | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
@@ -77,8 +75,6 @@
 ![Footer](https://cdn.statically.io/gh/joannerpena/joannerpena/main/assets/footer.svg)
 
 [website]: https://joannerpena.me
-[latestproject]: https://github.com/joannerpena/Mac-Environment-Installer
-[twitter]: https://twitter.com/joannerpena
 [instagram]: https://instagram.com/joannerpena06
 [linkedin]: https://linkedin.com/in/joannerpena
 [spotify]: https://open.spotify.com/user/joannerpena?si=8bc574b518054b99
